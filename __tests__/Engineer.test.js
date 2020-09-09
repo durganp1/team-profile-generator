@@ -14,3 +14,4 @@ test('gets employees role', () => {
 
     expect(engineer.getRole()).toBe('Engineer');
 });
+
