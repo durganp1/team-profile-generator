@@ -204,4 +204,3 @@ const addIntern = employeeData => {
 
 promptManager()
     .then(promptEmployee)
-    .then(console.log(employeeData));
